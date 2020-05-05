@@ -1,0 +1,59 @@
+﻿  BoardMenuStage.cpp
+  Button.cpp
+  CheckerBoardStage.cpp
+  Computer.cpp
+  DiffcultMenuStage.cpp
+  Game.cpp
+  Label.cpp
+  main.cpp
+  MenuStage.cpp
+  People.cpp
+D:\workspace\Gomoku\Gomoku\Computer.cpp(127,12): warning C4244:  '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:  '引數': 將 'T' 轉換為 'T'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         with
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:             T=int
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         ]
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         and
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:             T=float
+D:\workspace\Gomoku\Gomoku\People.cpp(21,50): warning C4244:         ]
+  Piece.cpp
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:  '引數': 將 'T' 轉換為 'T'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         with
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:             T=int
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         ]
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         and
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:             T=float
+D:\workspace\Gomoku\Gomoku\People.cpp(21,37): warning C4244:         ]
+D:\workspace\Gomoku\Gomoku\Piece.cpp(19,28): warning C4244:  '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  PieceManager.cpp
+D:\workspace\Gomoku\Gomoku\Piece.cpp(19,19): warning C4244:  '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\PieceManager.cpp(13,46): warning C4838:  從 'float' 到 'int' 的轉換必須是縮小轉換
+D:\workspace\Gomoku\Gomoku\PieceManager.cpp(13,46): warning C4244:  '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\PieceManager.cpp(14,64): warning C4838:  從 'float' 到 'int' 的轉換必須是縮小轉換
+  Player.cpp
+  PlayerMenuStage.cpp
+  Referee.cpp
+  Stage.cpp
+  WInLine.cpp
+D:\workspace\Gomoku\Gomoku\PieceManager.cpp(14,64): warning C4244:  '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(17,72): warning C4244:  '引數': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(17,72): warning C4244:         with
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(17,72): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(17,72): warning C4244:             T=float
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(17,72): warning C4244:         ]
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(27,74): warning C4244:  '引數': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(27,74): warning C4244:         with
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(27,74): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(27,74): warning C4244:             T=float
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(27,74): warning C4244:         ]
+  正在產生程式碼...
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(31,74): warning C4244:  '引數': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(31,74): warning C4244:         with
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(31,74): warning C4244:         [
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(31,74): warning C4244:             T=float
+D:\workspace\Gomoku\Gomoku\WInLine.cpp(31,74): warning C4244:         ]
+  Gomoku.vcxproj -> D:\workspace\Gomoku\Debug\Gomoku.exe

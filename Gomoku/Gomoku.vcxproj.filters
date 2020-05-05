@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PieceManager.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Stage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuStage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMenuStage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardMenuStage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="DiffcultMenuStage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckerBoardStage.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Computer.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="People.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Referee.cpp" />
+    <ClCompile Include="Label.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="Piece.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="WInLine.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameDef.h" />
+    <ClInclude Include="PieceManager.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Stage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMenuStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardMenuStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="DiffcultMenuStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckerBoardStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Computer.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="People.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Referee.h" />
+    <ClInclude Include="Label.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="Piece.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="WInLine.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{647dfa02-e573-4467-8e62-aeb413b24626}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{2940e78f-1a5f-4da2-b026-391c4eddd025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{603799c7-9cb8-4609-b19a-70e1a9ace3b2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

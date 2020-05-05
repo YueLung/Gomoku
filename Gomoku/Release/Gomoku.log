@@ -1,0 +1,25 @@
+﻿  Actor.cpp
+  Button.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Actor.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  CheckerBoard.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Button.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  Computer.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\CheckerBoard.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\PieceManager.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Game.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  MenuStage.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Game.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  People.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Stage.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  Piece.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\PieceManager.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  PieceManager.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Piece.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\PieceManager.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+  PlayerMgr.cpp
+  Stage.cpp
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\PieceManager.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
+D:\VS_CPLUSPLUS\Gomoku\Gomoku\Stage.h(2,10): error C1083:  無法開啟包含檔案: 'SFML/Graphics.hpp': No such file or directory
